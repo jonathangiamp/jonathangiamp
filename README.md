@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help with mobile based projects.
 - 💬 Ask me about anything related to the web, especially the frontend stack.
 - 📫 How to reach me: [twitter](https://twitter.com/JonGiamp) / [linkedin](https://www.linkedin.com/in/jongiamp/?locale=en_US)
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
